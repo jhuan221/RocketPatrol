@@ -1,2 +1,2 @@
 # RocketPatrol
-rocket patrol tutorial for cmpm 120, tutorial following Nathan Altice
+rocket patrol cmpm 120 following Nathan Altice's tutorial
